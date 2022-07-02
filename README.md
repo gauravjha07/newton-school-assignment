@@ -1,2 +1,3 @@
 # newton-school-assignment
-hello coder 
+area of square
+
